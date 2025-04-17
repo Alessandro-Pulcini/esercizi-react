@@ -1,7 +1,7 @@
 import React from "react";
 import "./conad.css";
 
-const Conad = () => {
+const ConadForm = () => {
   return (
     <div className="conad">
       <form>
@@ -42,4 +42,4 @@ const Conad = () => {
   );
 };
 
-export default Conad;
+export default ConadForm;

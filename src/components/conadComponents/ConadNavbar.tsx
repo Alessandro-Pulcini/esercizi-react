@@ -6,6 +6,7 @@ const ConadNavbar = () => {
   return (
     <div className="navbar">
       <img className="logo" src={conadLogo} alt="conad logo" />
+      <hr className="linea" />
     </div>
   );
 };
